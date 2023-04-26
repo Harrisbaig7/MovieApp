@@ -18,4 +18,4 @@
 ### `You can get your API from this site`
 https://www.themoviedb.org/
 
-Copyright (c) 2022 CB
+Copyright (c) 2022 HB
